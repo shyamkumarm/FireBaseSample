@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireMessaging</string>
+    <string name="default_msg">The app is currently under maintenance;you might face difficulty in using some features.</string>
+    <string name="welcome">Welcome</string>
+    <string name="refresh">Refresh</string>
+    <string name="data_updated">data updated</string>
+    <string name="no_internet">No Internet</string>
+</resources>

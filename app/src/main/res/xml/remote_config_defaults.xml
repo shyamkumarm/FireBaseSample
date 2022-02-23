@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>show_banner</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>banner_message</key>
+        <value>The app is currently under maintenance;you might face difficulty in using some features</value>
+    </entry>
+</defaultsMap>

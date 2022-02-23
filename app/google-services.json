@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951610049436",
+    "project_id": "fire-messaging-ad903",
+    "storage_bucket": "fire-messaging-ad903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951610049436:android:ffee1091c212eb5f497e59",
+        "android_client_info": {
+          "package_name": "com.dicetek.firemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951610049436-le4vjta25tcgi5hh7j55ijr8a60ndh9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicetek.firemessaging",
+            "certificate_hash": "cdbda789b79ace6668a377ea664a8ffe22226eba"
+          }
+        },
+        {
+          "client_id": "951610049436-fpb3v0g0glk6i4u6jkqd9nbl6gah87fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4-svVr_QCKIJz6423uNuLZWY6GCmCow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951610049436-fpb3v0g0glk6i4u6jkqd9nbl6gah87fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

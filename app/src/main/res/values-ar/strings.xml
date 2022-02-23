@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رسائل النار</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="default_msg">التطبيق قيد الصيانة حاليًا ؛ قد تواجه صعوبة في استخدام بعض الميزات</string>
+    <string name="refresh">ينعش</string>
+    <string name="data_updated">تم تحديث البيانات</string>
+    <string name="no_internet">بدون انترنت</string>
+</resources>
